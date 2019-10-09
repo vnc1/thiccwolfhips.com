@@ -12,7 +12,6 @@
   font-size: 15vw;
   text-align: center;
   text-shadow: 2px 2px #000;
-  color: #fff;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -31,10 +30,6 @@
   bottom: 0;
   width: 100%;
   line-height: 0.6cm;
-}
-
-dfn {
-    border-bottom: 1px dotted white;
 }
 
 @keyframes rainbow{0%{color:red}10%{color:#ff8000}20%{color:#ff0}30%{color:#80ff00}40%{color:#0f0}50%{color:#00ff80}60%{color:#0ff}70%{color:#0080ff}80%{color:#00f}90%{color:#8000ff}100%{color:#ff0080}}
